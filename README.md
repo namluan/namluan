@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nam !</h1>
-<h3 align="center">A student from Paris</h3>
+<h1 align="center">👋 Bonjour, Je suis Nam Luân</h1>
+<h3 align="center">Étudiant à Paris</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
